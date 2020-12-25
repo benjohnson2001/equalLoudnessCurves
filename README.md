@@ -2,7 +2,7 @@ The frequency balance of any audio changes at different volumes because of how o
 
 ![equalLoudnessCurves.gif](equalLoudnessCurves.gif)
 
-![how to install](https://raw.githubusercontent.com/benjohnson2001/equalLoudnessCurves/master/howToInstall.gif)
+[how to install](https://raw.githubusercontent.com/benjohnson2001/equalLoudnessCurves/master/howToInstall.gif)
 
 [download](https://raw.githubusercontent.com/benjohnson2001/equalLoudnessCurves/master/equalLoudnessCurves.RPL)
 
