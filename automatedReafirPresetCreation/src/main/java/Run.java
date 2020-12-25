@@ -39,7 +39,7 @@ public class Run {
       screen.mouseMove(reaperIconLocation);
       screen.click(reaperIconLocation);
 
-      for (int i = 1; i >= 1; i--) {
+      for (int i = 100; i >= 1; i--) {
 
          Location base1FxButton = getLocation(screen, base1Pattern).offset(140, 0);
 //         Location base2FxButton = getLocation(screen, base2Pattern).offset(140, 0);
